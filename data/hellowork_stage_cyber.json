@@ -22,21 +22,5 @@
     "price": null,
     "company": null,
     "location": "Paris - 75"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/84671774.html": {
-    "title": "https://www.hellowork.com/fr-fr/emplois/84671774.html",
-    "available": null,
-    "status": null,
-    "price": null,
-    "company": null,
-    "location": "Paris - 75"
-  },
-  "https://www.hellowork.com/fr-fr/emplois/83361529.html": {
-    "title": "https://www.hellowork.com/fr-fr/emplois/83361529.html",
-    "available": null,
-    "status": null,
-    "price": null,
-    "company": null,
-    "location": "Paris - 75"
   }
 }
